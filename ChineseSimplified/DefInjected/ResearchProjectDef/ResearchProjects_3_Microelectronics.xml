@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<EnergyArmorResearch.label>研究能量甲</EnergyArmorResearch.label>
+	<EnergyArmorResearch.description>在能量甲领域的研究将使你可以制作一种新型防护层的动力甲，理所应当的是，你拥有一个供能的能源。</EnergyArmorResearch.description>
+
+	<MK1Thunder.label>MK1"雷鸣"</MK1Thunder.label>
+	<MK1Thunder.description>代号"雷鸣" - 能量套装的首个研制成果。</MK1Thunder.description>
+
+	<MK2Aquilla.label>MK2"阿奎利尔"</MK2Aquilla.label>
+	<MK2Aquilla.description>一代盔甲的升级版。强化后的防护层和经计算优化节省的内部空间，让你能创造出一个更高效的能量甲。</MK2Aquilla.description>
+
+	<BasicEnergyStorage.label>基础能源储存</BasicEnergyStorage.label>
+	<BasicEnergyStorage.description>能量甲对能源核心要求极高。但我们无法随身携带巨大的能源基站，小型的能源核心才是我们的需求。\n该技术打开了微型能源核心的大门，现在可以制造最基础的能源核心 - -蓄电池组。</BasicEnergyStorage.description>
+
+	<AdvancedEnergySources.label>先进能源核心</AdvancedEnergySources.label>
+	<AdvancedEnergySources.description>因独特的发现，我们能制作出超出现产品好几倍容量的能源核心。\n该技术允许制造改良型蓄电池组。</AdvancedEnergySources.description>
+
+	<EnergyGridBatteries.label>能量网络电池组</EnergyGridBatteries.label>
+	<EnergyGridBatteries.description>能量光栅的使用进一步的扩大了电池容量。\n该技术允许我们制造能量网络电池组。</EnergyGridBatteries.description>
+
+	<NanotechnologyBatteries.label>纳米电池组</NanotechnologyBatteries.label>
+	<NanotechnologyBatteries.description>纳米技术在电池组制造业的应用使得我们能够制造出远超现存核心的能源核心。\n该技术允许我们制造硅纳米电池组。</NanotechnologyBatteries.description>
+
+	<AutonomousEnergySources.label>自恢复能源核心</AutonomousEnergySources.label>
+	<AutonomousEnergySources.description>创造出一种无需连接基站，通过消耗燃料自动回复能量的能源核心。\n该技术允许制作微型核反应堆。</AutonomousEnergySources.description>
+
+	<NextGenerationReactor.label>新一代反应堆</NextGenerationReactor.label>
+	<NextGenerationReactor.description>创造一种以冷核聚变为基础的反应堆。不会过热，高效产能。\n该技术允许你制作微型冷核聚变反应堆。</NextGenerationReactor.description>
+
+	<OverclockedColdFusionReactor.label>高频冷核聚变反应堆</OverclockedColdFusionReactor.label>
+	<OverclockedColdFusionReactor.description>用缇利姆合金替代钯作为新型燃料，从而提高冷核聚变反应堆的能量输出率。\n允许你制作微型电弧反应堆。</OverclockedColdFusionReactor.description>
+
+	<BasicArmorImprovement.label>基础盔甲改良</BasicArmorImprovement.label>
+	<BasicArmorImprovement.description>通过添加提升参数的模块改良盔甲。\n允许你制作工具以改良盔甲。</BasicArmorImprovement.description>
+
+	<RoboticStation.label>机械基台</RoboticStation.label>
+	<RoboticStation.description>机器辅助会提供更好的盔甲加工精度，并允许你安装更好的模块。\n允许你制作机械操作臂以安装二级模块。</RoboticStation.description>
+
+	<Nanorobots.label>纳米机器人</Nanorobots.label>
+	<Nanorobots.description>现在，我们可以通过纳米机器人改良盔甲。这使得你可以对以前无法改进的预留部分进行改良。\n允许你制造纳米机器人以安装三级改良模块。</Nanorobots.description>
+
+	<AdvancedEnergyManagementTechniques.label>先进能量管理</AdvancedEnergyManagementTechniques.label>
+	<AdvancedEnergyManagementTechniques.description>我们能重定向储存能源到另一位置以优化能量消耗。\n允许你制作电容器组和变压器。</AdvancedEnergyManagementTechniques.description>
+
+	<EnergyOptimization.label>能量优化算法</EnergyOptimization.label>
+	<EnergyOptimization.description>通过使用高级原材，我们能制作出最好的电池以储存更多能量，并优化能源消耗以便更快的为盔甲充能。\n允许你制作纳米"Yolk"和能量纽扣电池。</EnergyOptimization.description>
+
+	<EnergyAccelerator.label>能量加速器</EnergyAccelerator.label>
+	<EnergyAccelerator.description>通过组装出的特殊能量加速器，我们能挖掘出基站的能量方面的全部潜能。\n该技术开启了制作功率加速器的可能。</EnergyAccelerator.description>
+
+
+	<!-- tier 1 -->
+
+	<BasicRespiratoryProtection.label>基础呼吸系统防护</BasicRespiratoryProtection.label>
+	<BasicRespiratoryProtection.description>通过安装特殊滤器装置以避免你遭受简单的有毒气体和环境气体的影响。\n允许你制作基础过滤系统。</BasicRespiratoryProtection.description>
+
+	<ProtectiveMaterial.label>开发防护材料</ProtectiveMaterial.label>
+	<ProtectiveMaterial.description>为了从物理防护上阻挡天气和人类活动的影响，我们需要能阻挡恶劣天气和辐射的材料。\n允许你制作防毒面层。</ProtectiveMaterial.description>
+
+	<SimpleGuidanceSystem.label>简易制导装置</SimpleGuidanceSystem.label>
+	<SimpleGuidanceSystem.description>制作简易制导装置能提升射击精度。\n允许你制作制导装置。</SimpleGuidanceSystem.description>
+
+	<Stimulants.label>兴奋剂</Stimulants.label>
+	<Stimulants.description>兴奋剂能让装备者注入肾上腺素，这会提升装备者的格斗技能。\n允许你制作兴奋剂。</Stimulants.description>
+
+	<LightProtection.label>轻甲防护</LightProtection.label>
+	<LightProtection.description>制作出能安置在盔甲下的材料以提升盔甲的防护性。\n允许你制作固化轻甲。</LightProtection.description>
+
+	<HeavyProtection.label>重甲防护</HeavyProtection.label>
+	<HeavyProtection.description>研发能电镀于盔甲上层以大幅增加防护性的镀层技术。\n允许你制作强化重甲。</HeavyProtection.description>
+
+	<ImprovedMobility.label>机动性改良</ImprovedMobility.label>
+	<ImprovedMobility.description>制作并安装避震器到盔甲的下部让穿戴者更省力的行走。\n允许你制作避震器。</ImprovedMobility.description>
+
+
+	<!-- tier 2 -->
+
+	<SimpleMedicalSystems.label>简易医疗系统</SimpleMedicalSystems.label>
+	<SimpleMedicalSystems.description>简易医疗系统能监测装备者的生命指标并提供了医疗服务的可能。\n允许你制作急救接口。</SimpleMedicalSystems.description>
+
+	<ProteinTherapyAntigenesis.label>蛋白质抗原</ProteinTherapyAntigenesis.label>
+	<ProteinTherapyAntigenesis.description>多亏了自动蛋白质疗法体系的出现，我们能提高装备者的存活率及其作战能力。\n允许你制作蛋白质抗原。</ProteinTherapyAntigenesis.description>
+
+	<AdrenalineInjectors.label>肾上腺素注射器</AdrenalineInjectors.label>
+	<AdrenalineInjectors.description>肾上腺素注射器能明显强化装备者，且得益于一种特殊注射系统的出现，你能通过过量注射来获得一个超级战士。\n允许你制作肾上腺素注射器。</AdrenalineInjectors.description>
+
+	<ActiveArmor.label>动态盔甲</ActiveArmor.label>
+	<ActiveArmor.description>制作能适应每一种武器的护甲，安装后能显著增强盔甲的防护性。\n允许你制作动态护甲。</ActiveArmor.description>
+
+	<CircularEcholocation.label>环形回声定位系统</CircularEcholocation.label>
+	<CircularEcholocation.description>特殊的生态定位器允许装备者掌握周围的环境状况，从而提升战士的机动性。\n允许你制作回声定位系统"柏拉图"。</CircularEcholocation.description>
+
+	<AdvancedFiltrationSystems.label>先进过滤系统</AdvancedFiltrationSystems.label>
+	<AdvancedFiltrationSystems.description>制作新一代的滤器以保护穿戴者免受所有可能由空气引起的问题。\n允许你制作先进过滤系统。</AdvancedFiltrationSystems.description>
+
+	<JointImprovement.label>关节改良</JointImprovement.label>
+	<JointImprovement.description>制作机动关节将更好的增进盔甲机动性及加快移动速度。\n允许你制作机动关节。</JointImprovement.description>
+
+	<UpperLayerArmor.label>外层装甲</UpperLayerArmor.label>
+	<UpperLayerArmor.description>制作受击即脱落卸力的外层涂层以保护装备者，该涂层有一定抵挡次数。\n允许你制作烧蚀涂层。</UpperLayerArmor.description>
+
+	<EnergyShieldSystem.label>能量盾系统</EnergyShieldSystem.label>
+	<EnergyShieldSystem.description>护盾系统通过创造环绕在装备者身边的强力能量场以阻挡外界伤害。\n允许你制作护盾调制器。</EnergyShieldSystem.description>
+
+
+	<!-- tier 3 -->
+
+	<KineticBuffer.label>动能缓冲器</KineticBuffer.label>
+	<KineticBuffer.description>缓冲器能从物理冲击和伤害中累积动能，并通过装备者的盔甲将其以信号的形式大量释放回去。同时兼具兴奋剂注射器的功能。\n允许你制作动能缓冲器。</KineticBuffer.description>
+
+	<AdvancedSecuritySystems.label>先进安保系统</AdvancedSecuritySystems.label>
+	<AdvancedSecuritySystems.description>先进安保系统能让你自定义分配盔甲中的能量，将能量传输到受击处进行防护。\n允许你制作安保接口。</AdvancedSecuritySystems.description>
+
+	<CombatExoskeleton.label>战斗外骨骼</CombatExoskeleton.label>
+	<CombatExoskeleton.description>战斗外骨骼内含大型系统，能增强盔甲装备者的身体能力。\n允许你制作战斗外骨骼。</CombatExoskeleton.description>
+
+	<MedicalExoskeleton.label>医疗外骨骼</MedicalExoskeleton.label>
+	<MedicalExoskeleton.description>医疗外骨骼能从内部实时监测生命体征，并及时对任何生命威胁实行方案。\n允许你制作医疗外骨骼。</MedicalExoskeleton.description>
+
+	<EnergyBoots.label>动力鞋</EnergyBoots.label>
+	<EnergyBoots.description>内置能量放大器的鞋子，完美融合舒适与速度。\n允许你制作动力鞋。</EnergyBoots.description>
+
+
+</LanguageData>

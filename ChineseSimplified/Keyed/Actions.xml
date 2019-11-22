@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OpenMKStation>操作基站</OpenMKStation>
+  <StationTab>基站</StationTab>
+  <ArmorTab>已连接盔甲</ArmorTab>
+
+  <Station_UnloadModule>禁用并移除模块</Station_UnloadModule>
+  <Station_LoadArmor>将盔甲链接到基站</Station_LoadArmor>
+  <Station_UnloadArmor>取消盔甲与基站的链接</Station_UnloadArmor>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LoadArmorIntoStation.reportString>将盔甲链接到基站</LoadArmorIntoStation.reportString>
+  <UnLoadArmorIntoStation.reportString>取消盔甲与基站的链接</UnLoadArmorIntoStation.reportString>
+  <CarryReactorToStation.reportString>将反应堆送往基站</CarryReactorToStation.reportString>
+  <OpenStation.reportString>操作基站</OpenStation.reportString>
+  <SetupModuleForStation.reportString>改进基站</SetupModuleForStation.reportString>
+  <SetupModuleForArmor.reportString>改进盔甲</SetupModuleForArmor.reportString>
+  <RefuelArmorCore.reportString>将燃料送往核心</RefuelArmorCore.reportString>
+
+
+</LanguageData>

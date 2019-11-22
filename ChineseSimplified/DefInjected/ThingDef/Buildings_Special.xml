@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Mk1PowerStation.label>MK盔甲基站</Mk1PowerStation.label>
+  <Mk1PowerStation.description>为MK型号盔甲充能与装配模块的基站。</Mk1PowerStation.description>
+  <Mk1PowerStation_Blueprint.label>MK盔甲基站(蓝图)</Mk1PowerStation_Blueprint.label>
+  <Mk1PowerStation_Frame.label>MK盔甲基站(建造中)</Mk1PowerStation_Frame.label>
+  <Mk1PowerStation_Frame.description>为MK型号盔甲充能与装配模块的基站。</Mk1PowerStation_Frame.description>
+
+
+</LanguageData>

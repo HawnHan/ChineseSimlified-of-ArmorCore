@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Station_ModuleTitle>模块</Station_ModuleTitle>
+  <Station_NoModule>安装模块</Station_NoModule>
+
+  <Modules_ArmorTab>工具</Modules_ArmorTab>
+  <Modules_CapacityTab>额外电容</Modules_CapacityTab>
+  <Modules_ChargingTab>充能速度</Modules_ChargingTab>
+
+  <ModuleWorker_StatDescription_Capacity>- 额外电池容量: {0}</ModuleWorker_StatDescription_Capacity>
+  <ModuleWorker_StatDescription_Charging>- 电池充电速度: {0}</ModuleWorker_StatDescription_Charging>
+  <ModuleWorker_StatDescription_PowerLimit>- 占用系统能量负载: {0}</ModuleWorker_StatDescription_PowerLimit>
+  <ModuleWorker_StatDescription_AddCharge>- 额外充电速率: {0}</ModuleWorker_StatDescription_AddCharge>
+
+  <Station_ModuleItemNotFound>(库存无此模块)</Station_ModuleItemNotFound>
+  <Station_NeedResearch>(需要研究: {0})</Station_NeedResearch>
+  <Station_ModuleCannotInstal>无法安装模块。\n原因: {0}</Station_ModuleCannotInstal>
+  <Station_InstallModule>安装模块</Station_InstallModule>
+
+  <Station_PowerLimitInfo>系统能量负载</Station_PowerLimitInfo>
+  <Station_PowerLimit>系统超载</Station_PowerLimit>
+  <Station_OverDrive>切换超载模式</Station_OverDrive>
+
+  <OverDrive_Wait>无法启用超载模式，系统尚未冷却完毕。</OverDrive_Wait>
+  <OverDrive_Disabled>超载模式已关闭。</OverDrive_Disabled>
+  <OverDrive_ON>已切换为超载模式。若启用超载模式，基站将变得不稳定，但盔甲充能速度变为双倍。\n如果你没有在进度条到达100%前关闭，基站将遭受巨大危机。</OverDrive_ON>
+
+  <Station_SecondTableInfo>已激活模块: {0} / {1}\n盔甲充能速度: {2}\n盔甲能量: {3} / {4}\n内部电池储能: {5} / {6}\n电池充电速度: {7}</Station_SecondTableInfo>
+  <StationInspectorInfo>盔甲能量: {0} / {1}\n内部电池储能: {2} / {3}</StationInspectorInfo>
+  <StationInspectorInfo_NOARMOR>无盔甲</StationInspectorInfo_NOARMOR>
+  <StationInspectorInfo_NoCore>盔甲无核心</StationInspectorInfo_NoCore>
+
+  <Station_NoCore>未装备核心</Station_NoCore>
+  <Station_CoreInfo>- 容量: {0}</Station_CoreInfo>
+  <Station_CoreInfoFuel>\n- 燃料类型: {0} ({1} / {2})\n- 充能速度: {3}</Station_CoreInfoFuel>
+  <Station_CoreParam>能源核心参数</Station_CoreParam>
+  <Station_InstallCore>安装核心</Station_InstallCore>
+  <Station_RemoveCore>移除核心</Station_RemoveCore>
+
+  <ArmorModuleCategory_Body>躯干</ArmorModuleCategory_Body>
+  <ArmorModuleCategory_General>常规</ArmorModuleCategory_General>
+  <ArmorModuleCategory_Head>头部</ArmorModuleCategory_Head>
+  <ArmorModuleCategory_Legs>腿部</ArmorModuleCategory_Legs>
+
+  <Station_LevelReq>(需求基站工具等级: {0}, 当前 {1})</Station_LevelReq>
+  <Station_FullInfo>要安装模块，请单击空插槽。\n要移除模块，单击它。\n\n盔甲参数:\n{0}</Station_FullInfo>
+
+  <ArmorModuleWorker_GuidanceSystem>- 命中目标的额外几率: {0}</ArmorModuleWorker_GuidanceSystem>
+  <ArmorModuleWorker_BasicFiltrationSystem>阻隔:\n-重空气</ArmorModuleWorker_BasicFiltrationSystem>
+  <ArmorModuleWorker_Plato>- 额外闪避几率: {0}</ArmorModuleWorker_Plato>
+  <ArmorModuleWorker_AdvancedFiltrationSystem>隔绝除辐射外的所有空气影响。</ArmorModuleWorker_AdvancedFiltrationSystem>
+  <ArmorModuleWorker_Stimulants>- 降低休克几率: {0}\n- 增加移动速度: {1}</ArmorModuleWorker_Stimulants>
+  <ArmorModuleWorker_ReinforcedArmorCloth>- 防护提升(利器): {0}\n- 防护提升(钝器): {1}\n- 防护提升(热能): {2}\n- 手榴弹震击抵抗</ArmorModuleWorker_ReinforcedArmorCloth>
+  <ArmorModuleWorker_ReinforcedPlates>- 防护提升(利器): {0}\n- 防护提升(钝器): {1}\n- 防护提升(热能): {2}\n- 降低移动速度: {3} м/с</ArmorModuleWorker_ReinforcedPlates>
+  <ArmorModuleWorker_AntitoxicSeals>防辐射\n- 最大适宜温度: +30\n- 最小适宜温度: +30</ArmorModuleWorker_AntitoxicSeals>
+  <ArmorModuleWorker_FirstAidInterface>- 促进伤口愈合速度: {0}</ArmorModuleWorker_FirstAidInterface>
+  <ArmorModuleWorker_ActivePlates>- 防护提升(利器): {0}\n- 防护提升(钝器): {1}\n- 防护提升(热能): {2}</ArmorModuleWorker_ActivePlates>
+  <ArmorModuleWorker_ProteinTherapyAntigenesis>- 降低休克几率: {0}\n- 增加移动速度: {1}\n- 负重: +{2}</ArmorModuleWorker_ProteinTherapyAntigenesis>
+  <ArmorModuleWorker_AdrenalineInjectors>- 近战伤害: +{0}\n- 瞄准时间: {1}\n- 增加移动速度: {2}\n可激活: 过量注射</ArmorModuleWorker_AdrenalineInjectors>
+  <ArmorModuleWorker_AdrenalineInjectors_Action>过量</ArmorModuleWorker_AdrenalineInjectors_Action>
+  <ArmorModuleWorker_AdrenalineInjectors_Action_Desc>注入大剂量肾上腺素，全面提升穿戴者的能力。警告！过大剂量会致死，且过度使用将导致心脏问题。</ArmorModuleWorker_AdrenalineInjectors_Action_Desc>
+  <ArmorModuleWorker_AdrenalineInjectors_Action_CoolDown>肾上腺素注射器未冷却完毕。</ArmorModuleWorker_AdrenalineInjectors_Action_CoolDown>
+  <ArmorModuleWorker_KineticBuffer>- 近战伤害: +{0}\n- 瞄准时间: {1}\n- 命中几率(近战): {2}\n- 提升精度(远程): {3}\n- 增加移动速度: {4}</ArmorModuleWorker_KineticBuffer>
+  <ArmorModuleWorker_KineticBuffer_Action>发射冲能 ({0} / 100)</ArmorModuleWorker_KineticBuffer_Action>
+  <ArmorModuleWorker_KineticBuffer_Action_Desc>以能量波形式发射动能缓冲器中的能量</ArmorModuleWorker_KineticBuffer_Action_Desc>
+  <ArmorModuleWorker_KineticBuffer_NotEnoughBuffer>能量不足。</ArmorModuleWorker_KineticBuffer_NotEnoughBuffer>
+  <ArmorModuleWorker_SecurityInterface>- 防护提升(利器): {0}\n- 防护提升(钝器): {1}\n- 防护提升(热能): {2}</ArmorModuleWorker_SecurityInterface>
+  <ArmorModuleWorker_CombatExoskeleton>- 防护提升(利器): {0}\n- 防护提升(钝器): {1}\n- 防护提升(热能): {2}\n- 近战伤害: +{3}\n- 瞄准时间: {4}\n- 负重: +{5}\n- 采矿速度: +{6}\n功率过载 - 提升15%移速和60%工作速度</ArmorModuleWorker_CombatExoskeleton>
+  <ArmorModuleWorker_CombatExoskeleton_Action_Already>功率过载早已启用</ArmorModuleWorker_CombatExoskeleton_Action_Already>
+  <ArmorModuleWorker_CombatExoskeleton_Action_Energy>套装所含能量不足。需要 {0}。</ArmorModuleWorker_CombatExoskeleton_Action_Energy>
+  <ArmorModuleWorker_CombatExoskeleton_Action_Cooldown>冷却</ArmorModuleWorker_CombatExoskeleton_Action_Cooldown>
+  <ArmorModuleWorker_CombatExoskeleton_Action>功率过载</ArmorModuleWorker_CombatExoskeleton_Action>
+  <ArmorModuleWorker_CombatExoskeleton_Action_Desc>通过过载外骨骼，提升穿戴者的身体能力。需要 {0} 点能量启用。</ArmorModuleWorker_CombatExoskeleton_Action_Desc>
+  <ArmorWorkerModule_MedicalExoskeleton>- 愈合速度: {0}\n过量 - 用药过量</ArmorWorkerModule_MedicalExoskeleton>
+  <ArmorWorkerModule_MedicalExoskeleton_Action>过量</ArmorWorkerModule_MedicalExoskeleton_Action>
+  <ArmorWorkerModule_MedicalExoskeleton_Action_Desc>通过释放大剂量的特殊药物，立即修复所有伤口。</ArmorWorkerModule_MedicalExoskeleton_Action_Desc>
+  <ArmorWorkerModule_MedicalExoskeleton_Action_Cooldown>药物充能未完成。</ArmorWorkerModule_MedicalExoskeleton_Action_Cooldown>
+  <ArmorWorkerModule_MedicalExoskeleton_Action_Already>药物注射早已执行。</ArmorWorkerModule_MedicalExoskeleton_Action_Already>
+  <ArmorModuleWorker_ShockAbsorbers>- 增加移动速度: {0}</ArmorModuleWorker_ShockAbsorbers>
+  <ArmorModuleWorker_MotorizedJoints>- 增加移动速度: {0}</ArmorModuleWorker_MotorizedJoints>
+  <ArmorModuleWorker_AblationCoating>当烧蚀涂层拥有可用层数时抵消伤害</ArmorModuleWorker_AblationCoating>
+  <ArmorModuleWorker_AblationCoating_Action>{0} / 10</ArmorModuleWorker_AblationCoating_Action>
+  <ArmorModuleWorker_AblationCoating_Action_Desc>显示涂层已使用多少层。只要仍余有涂层，伤害将被完全抵消。每击消耗一层。</ArmorModuleWorker_AblationCoating_Action_Desc>
+  <ArmorModuleWorker_ShieldModulator>抵消所有小于等于15点的伤害。需充能，能量源于主反应堆。</ArmorModuleWorker_ShieldModulator>
+  <ArmorModuleWorker_ShieldModulator_Action>{0} / {1}</ArmorModuleWorker_ShieldModulator_Action>
+  <ArmorModuleWorker_ShieldModulator_Action_Desc>显示护盾的电量。护盾的充能速度为 {0}。能量源于主反应堆。但主反应堆关闭时仍可以运行。</ArmorModuleWorker_ShieldModulator_Action_Desc>
+  <ArmorModuleWorker_EnergyBoots>- 增加移动速度: {0}\n- 能量消耗: +0.10</ArmorModuleWorker_EnergyBoots>
+
+  <Station_Incopatible>该模块不兼容此盔甲。</Station_Incopatible>
+
+  <Core_Fuel>\n{0} - 燃料: {0} / {1} ({2})</Core_Fuel>
+  <Core_ArmorCore_OverHeat>({0}) 温度: {1} / 100</Core_ArmorCore_OverHeat>
+  <Core_ArmorCore_OverHeat_Desc>燃料: {0} \n\n燃料: {1} / {2} \n按下以切换。\n显示反应堆的过热程度。当反应堆激活时，它会处于充能状态。未激活时你依旧能使用套装。当抵达100%阀门温度时，反应堆会强制关闭一段时间，直到至少降低到阀门温度的一半后你才能继续启用。</Core_ArmorCore_OverHeat_Desc>
+  <UseReactorON>启用</UseReactorON>
+  <UseReactorNO>禁用</UseReactorNO>
+
+  <Station_AddFuel>燃料补给</Station_AddFuel>
+  <NoAvaliableFuel>无可用燃料 - {0}</NoAvaliableFuel>
+
+</LanguageData>

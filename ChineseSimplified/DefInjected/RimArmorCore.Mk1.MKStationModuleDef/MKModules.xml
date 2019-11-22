@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Броня -->
+
+  <Instruments.label>工具箱</Instruments.label>
+  <Instruments.description>基础盔甲的升级工具。</Instruments.description>
+
+  <RoboticManipulators.label>机械操作臂</RoboticManipulators.label>
+  <RoboticManipulators.description>机械操作臂能轻松修复与更新盔甲模块。它们被设计用于为盔甲进行更细微的改良，因此拥有特殊的人工智能。\n\n允许你安装盔甲的二级模块。</RoboticManipulators.description>
+
+  <Nanorobots.label>纳米机器人</Nanorobots.label>
+  <Nanorobots.description>富含用于精细工作特殊编程的纳米机器人的液体。此外，因其体积及液态形式，能渗透到人类无法抵达的部位。\n开启盔甲模块的终极模块。</Nanorobots.description>
+
+
+  <!-- Доп.энергия -->
+
+  <CondenserBatteries.label>电容器组</CondenserBatteries.label>
+  <CondenserBatteries.description>缓慢积累能量的电池组。基站备用能源。在基站未链接到主电源的时候启用为盔甲充能(盔甲需要充能时)。在基站连接主电源时充电。\n\n充能速度与容量极低的电池组。</CondenserBatteries.description>
+
+  <NanoYolk.label>"纳米-Yolk"电池</NanoYolk.label>
+  <NanoYolk.description>立体结构为:二氧化钛构成的空心外壳，内部是铝粉、硫酸和硫酸氧钛的填充物（填料如鸡蛋中的蛋黄般存在于内部）。填充物的大小与外壳大小没有比例关系，可自由改变。这类粒子的应用使得电池的容量增加了三倍，并显著加快了充能速度。</NanoYolk.description>
+
+
+  <!-- Зарядка -->
+
+  <Transformers.label>变压器</Transformers.label>
+  <Transformers.description>一台带钢圈的升压变压器能让你提高盔甲的充能速度。</Transformers.description>
+
+  <EnergyCell.label>能量纽扣电池</EnergyCell.label>
+  <EnergyCell.description>能量纽扣电池能积累少量的能量并在高功率时释放。提高盔甲充能速度。</EnergyCell.description>
+
+  <PowerAccelerator.label>功率加速器</PowerAccelerator.label>
+  <PowerAccelerator.description>集加速器与富集带电粒子于一体。提高盔甲充能速度，并得于特殊的设计，能开启电源超载模式以使用最大功率。(小心爆炸！)</PowerAccelerator.description>
+
+
+</LanguageData>

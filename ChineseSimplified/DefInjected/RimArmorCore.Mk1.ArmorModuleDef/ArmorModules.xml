@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tier 1: голова -->
+
+  <GuidanceSystem.label>制导系统</GuidanceSystem.label>
+  <GuidanceSystem.description>目标指示及制导系统。因加入了红外热像仪和激光制导，该系统能提供额外的射击精度，特别是在天气情况不好的情况。\n\n赋予额外的射击精度。</GuidanceSystem.description>
+
+  <BasicFiltrationSystem.label>基础过滤系统</BasicFiltrationSystem.label>
+  <BasicFiltrationSystem.description>基础过滤系统。能防护不太严重的有毒空气。</BasicFiltrationSystem.description>
+
+
+  <!-- Tier 2: голова -->
+
+  <Plato.label>"柏拉图"定位系统</Plato.label>
+  <Plato.description>"柏拉图"定位系统，通过在头盔上装满头盔式传感器掌控360度的环境情况。因此，背后突袭不复存在。\n\n提升闪避几率。</Plato.description>
+
+  <AdvancedFiltrationSystem.label>先进过滤系统</AdvancedFiltrationSystem.label>
+  <AdvancedFiltrationSystem.description>先进空气过滤系统。它包含了由特殊科技制作的闭合回路，多亏了这种设计，不仅实现阻隔所有重度有毒空气，也能隔绝极寒/过热的空气。</AdvancedFiltrationSystem.description>
+
+
+  <!-- Tier 1: тело -->
+
+  <Stimulants.label>兴奋剂</Stimulants.label>
+  <Stimulants.description>直接安装在盔甲中的兴奋剂能在需要时注射具有针对性的肾上腺素，提升佩戴者的速度，降低休克几率。</Stimulants.description>
+
+  <ReinforcedArmorCloth.label>固化轻甲</ReinforcedArmorCloth.label>
+  <ReinforcedArmorCloth.description>微粒合成的复杂结构物及反射防火墙技术，给予的额外性能使得盔甲足以抵挡常规和电子攻击。</ReinforcedArmorCloth.description>
+
+  <ReinforcedPlates.label>强化重甲</ReinforcedPlates.label>
+  <ReinforcedPlates.description>强化重甲由钢铁和玻璃钢的熔炼成的合金组成，将其植入盔甲内可以提高盔甲的防护性能。</ReinforcedPlates.description>
+
+  <AntitoxicSeals.label>防毒面层</AntitoxicSeals.label>
+  <AntitoxicSeals.description>全封闭式盔甲给予更好的辐射、有害气体、有毒物质和温度防护性能。</AntitoxicSeals.description>
+
+
+  <!-- Tier 2: тело -->
+
+  <FirstAidInterface.label>急救接口</FirstAidInterface.label>
+  <FirstAidInterface.description>内置于盔甲内的微型处理器，具有监测身体重要指标的功能，且能指向性的注射小剂量万能药加快伤口恢复过程。</FirstAidInterface.description>
+
+  <ActivePlates.label>动态护甲</ActivePlates.label>
+  <ActivePlates.description>一种实验性护甲，能在弹药的作用下通过偏移制造出反弹角度。\n提升盔甲抗击。</ActivePlates.description>
+
+  <ProteinTherapyAntigenesis.label>蛋白质抗原</ProteinTherapyAntigenesis.label>
+  <ProteinTherapyAntigenesis.description>该模块通过刺激全身的血管组织提升穿戴者的能力，并以此提升抗击能力，同时减弱伤口的负面影响。</ProteinTherapyAntigenesis.description>
+
+  <AdrenalineInjectors.label>肾上腺素注射器</AdrenalineInjectors.label>
+  <AdrenalineInjectors.description>一种被动注射到血液的小剂量肾上腺素特殊注射系统。有提升移动速度，瞄准能力和进攻能力的作用。</AdrenalineInjectors.description>
+
+
+  <!-- Tier 3: тело -->
+
+  <KineticBuffer.label>动能缓冲器</KineticBuffer.label>
+  <KineticBuffer.description>新陈代谢催化器实时掌控身体重要指标，并通过注射转基因兴奋剂提升穿戴者的战斗技巧和运动能力。</KineticBuffer.description>
+
+  <SecurityInterface.label>安保接口</SecurityInterface.label>
+  <SecurityInterface.description>经改良后的视觉识别系统具有分析敌人弹道的功能，并及时将能量传输至弱点处以抗击。</SecurityInterface.description>
+
+  <CombatExoskeleton.label>战斗外骨骼</CombatExoskeleton.label>
+  <CombatExoskeleton.description>该实验性盔甲将力学放大器及防火墙两大功能合为一体，提升了战士的力量，同时能抵挡传统武器的伤害。</CombatExoskeleton.description>
+
+  <MedicalExoskeleton.label>医疗外骨骼</MedicalExoskeleton.label>
+  <MedicalExoskeleton.description>该实验性盔甲具有各种医疗手段，具有监测身体重要指标的功能，能提升治疗效率和愈合速度。</MedicalExoskeleton.description>
+
+
+  <!-- Tier 1: ноги -->
+
+  <ShockAbsorbers.label>避震器</ShockAbsorbers.label>
+  <ShockAbsorbers.description>通过在盔甲内安装微型重量分析部件提供更省力的运动方式。</ShockAbsorbers.description>
+
+
+  <!-- Tier 2: ноги -->
+
+  <MotorizedJoints.label>机动关节</MotorizedJoints.label>
+  <MotorizedJoints.description>改进关节处的特殊机械部件。让你更快，更省力的行走。</MotorizedJoints.description>
+
+
+  <!-- Tier 3: ноги -->
+
+  <EnergyBoots.label>动力鞋</EnergyBoots.label>
+  <EnergyBoots.description>该鞋子能增加穿戴者的速度，因为它先牢牢地抓紧地面，然后释放少量能量冲击地面进行移动。增加能量消耗量。</EnergyBoots.description>
+
+
+  <!-- Tier 2: общие -->
+
+  <AblationCoating.label>烧蚀涂层</AblationCoating.label>
+  <AblationCoating.description>烧蚀涂层在受击后从主体脱落，借此消除弹药产生的冲能。该模块可抵消10次冲击，在此之后需要更换涂层。</AblationCoating.description>
+
+  <ShieldModulator.label>护盾调制器</ShieldModulator.label>
+  <ShieldModulator.description>调制器能在盔甲周围生成能量场。该力场足以抵挡微型损伤。维持力场需要能量，能量源于套装反应堆。</ShieldModulator.description>
+
+
+</LanguageData>
